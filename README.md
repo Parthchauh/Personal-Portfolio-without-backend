@@ -103,6 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out to me:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** [your.email@example.com](mailto:cparth495@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/parthchauhan0702)
 - **GitHub:** [@Parthchauh](https://github.com/Parthchauh)
