@@ -19,7 +19,6 @@ Welcome to my personal portfolio website! 🌟 This project showcases my skills,
 - **Interactive Elements**: Smooth animations and transitions for a better user experience 🎨
 - **Project Showcase**: Detailed display of projects with descriptions and links 🖼️
 - **Contact Form**: Easy way to get in touch with me 📧
-- **Dark Mode**: Stylish dark theme for night owls 🌙
 
 ## Live Demo
 
