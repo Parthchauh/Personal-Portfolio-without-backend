@@ -68,7 +68,6 @@ Once the project is running, you can:
 - Navigate through the portfolio to explore different sections.
 - View detailed descriptions of my projects.
 - Use the contact form to reach out to me directly.
-- Switch between light and dark modes using the theme toggle.
 
 ## Contributing
 
